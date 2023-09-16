@@ -11,3 +11,16 @@ D:\Youtube working\Login Form\Login Form\obj\Debug\Login Form.pdb
 D:\Youtube working\Login Form\Login Form\obj\Debug\Login_Form.LoginForm.resources
 D:\Youtube working\Login Form\Login Form\obj\Debug\Login_Form.AdminPage.resources
 D:\Youtube working\Login Form\Login Form\obj\Debug\Login_Form.DashboardUserControl.resources
+D:\Youtube working\Store-management-system\Login Form\Login Form\bin\Debug\Login Form.exe.config
+D:\Youtube working\Store-management-system\Login Form\Login Form\bin\Debug\Login Form.exe
+D:\Youtube working\Store-management-system\Login Form\Login Form\bin\Debug\Login Form.pdb
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login Form.csproj.AssemblyReference.cache
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login Form.csproj.SuggestedBindingRedirects.cache
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login_Form.AdminPage.resources
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login_Form.DashboardUserControl.resources
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login_Form.LoginForm.resources
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login Form.exe
+D:\Youtube working\Store-management-system\Login Form\Login Form\obj\Debug\Login Form.pdb
